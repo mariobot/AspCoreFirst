@@ -1,0 +1,11 @@
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb

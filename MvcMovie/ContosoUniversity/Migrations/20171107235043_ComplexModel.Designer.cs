@@ -12,8 +12,8 @@ using System;
 namespace ContosoUniversity.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20171107225932_ComplexModels")]
-    partial class ComplexModels
+    [Migration("20171107235043_ComplexModel")]
+    partial class ComplexModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

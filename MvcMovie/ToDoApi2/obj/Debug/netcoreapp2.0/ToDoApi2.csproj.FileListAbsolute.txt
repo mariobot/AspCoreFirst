@@ -1,0 +1,11 @@
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\bin\Debug\netcoreapp2.0\ToDoApi2.deps.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\bin\Debug\netcoreapp2.0\ToDoApi2.runtimeconfig.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\bin\Debug\netcoreapp2.0\ToDoApi2.runtimeconfig.dev.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\bin\Debug\netcoreapp2.0\ToDoApi2.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.AssemblyInfoInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.AssemblyInfo.cs
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\bin\Debug\netcoreapp2.0\ToDoApi2.pdb
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.csprojResolveAssemblyReference.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\ToDoApi2\obj\Debug\netcoreapp2.0\ToDoApi2.pdb

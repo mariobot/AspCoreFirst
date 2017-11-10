@@ -1,0 +1,12 @@
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\bin\Debug\netcoreapp2.0\Authentication.deps.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\bin\Debug\netcoreapp2.0\Authentication.runtimeconfig.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\bin\Debug\netcoreapp2.0\Authentication.runtimeconfig.dev.json
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\bin\Debug\netcoreapp2.0\Authentication.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\bin\Debug\netcoreapp2.0\Authentication.pdb
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.csprojResolveAssemblyReference.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.AssemblyInfoInputs.cache
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.AssemblyInfo.cs
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.dll
+C:\Desarrollo\AspCoreFirst\MvcMovie\Authentication\obj\Debug\netcoreapp2.0\Authentication.pdb
